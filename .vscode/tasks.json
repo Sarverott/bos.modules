@@ -17,6 +17,15 @@
 			"problemMatcher": [],
 			"label": "npm: test - .craftset",
 			"detail": "node ./.craftset/inspect.js"
+		},
+		{
+			"type": "npm",
+			"script": "install",
+			"path": ".craftset",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: install - .craftset",
+			"detail": "install dependencies from package"
 		}
 	]
 }
