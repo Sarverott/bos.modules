@@ -5,7 +5,8 @@
   "main": ".craftset/index.js",
   "scripts": {
     "start": "node ./.craftset/apply-updates.js",
-    "test": "node ./.craftset/inspect.js"
+    "test": "node ./.craftset/inspect.js",
+    "push_req": ""
   },
   "repository": {
     "type": "git",
