@@ -8,6 +8,15 @@
 			"problemMatcher": [],
 			"label": "npm: start - .craftset",
 			"detail": "node ./.craftset/apply-updates.js"
+		},
+		{
+			"type": "npm",
+			"script": "test",
+			"path": ".craftset",
+			"group": "test",
+			"problemMatcher": [],
+			"label": "npm: test - .craftset",
+			"detail": "node ./.craftset/inspect.js"
 		}
 	]
 }
