@@ -2,7 +2,7 @@ import { Octokit } from "@octokit/rest";
 
 import fs from 'fs'
 
-let definedModule = JSON.parse(fs.readFileSync("./.define.json", 'utf-8'));
+let definedModule = JSON.parse(fs.readFileSync("./template.define.json", 'utf-8'));
 
 const octokit = new Octokit();
 
