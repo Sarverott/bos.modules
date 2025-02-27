@@ -1,0 +1,9 @@
+{
+    "declare":"coremodule",
+    "include":{},
+    "mounts":[
+        "index.json",
+        {}
+    ],
+    "datacasts":{}
+}
