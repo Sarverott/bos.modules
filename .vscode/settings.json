@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source": "always"
+    },
+    "notebook.codeActionsOnSave": {
+        "source": "explicit"
+    },
+    "workbench.startupEditor": "readme"
+}

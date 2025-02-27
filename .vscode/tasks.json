@@ -27,5 +27,6 @@
 			"label": "npm: install - .craftset",
 			"detail": "install dependencies from package"
 		}
+		
 	]
 }
