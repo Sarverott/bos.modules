@@ -1,1 +1,1 @@
-# bos.modules
+# bos component
